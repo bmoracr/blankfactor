@@ -16,6 +16,6 @@
 # Note
 
     - Application was realize with the follow versions, PHP-Laravel:latest, MYSQL:latest and with NGINX official docker image. 
-    - This API does not has any Authorization requirement by your email specifications, but if you need it I can make an updated to the same repository.
+    - This API does not has any authorization token or API_KEY by your email specifications, but if you need it I will do deploying this repository.
 
 Was a pleasure to complete this test, If exists any issue installing this container just put in touch `bryanmora1994@gmail.com`.
